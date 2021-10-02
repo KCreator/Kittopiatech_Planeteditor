@@ -9,7 +9,17 @@
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
 *.DOCX diff=astextplain
-*.dot  diff=astextplain
+*.dot  diff=astextplainsh
+sdfuajdhfa
+dfadf
+asdfas
+dfas
+dfasd
+fas
+df
+asdf
+asdf
+adsf
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
 *.PDF	 diff=astextplain
